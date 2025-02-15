@@ -7,7 +7,7 @@ import os.path
 
 ###########################################
 version = 'version 1.0'
-#antivirus = 'template'
+#antivirus = 'template's
 os.system('git config --global user.name "REFADE"')
 os.system('git config --global user.email "smll@ecomp.poli.br"')
 os.system('git config --global credential.helper store')
