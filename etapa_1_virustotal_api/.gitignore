@@ -1,0 +1,16 @@
+benign/*
+malware/*
+!malware/Submissao_virustotal
+__pycache__
+etapa_1_virustotal_api/malware/Submissao_virustotal/entrada/delpart
+etapa_1_virustotal_api/malware/Submissao_virustotal/entrada/libappstream-glib.so.8.0.10
+etapa_1_virustotal_api/malware/Submissao_virustotal/entrada/librawdv_plugin.so
+etapa_1_virustotal_api/malware/Submissao_virustotal/entrada/libsclo.so
+etapa_1_virustotal_api/malware/Submissao_virustotal/entrada/libgost.so
+etapa_1_virustotal_api/malware/Submissao_virustotal/scr/__init__.py
+etapa_1_virustotal_api/malware/Submissao_virustotal/scr/__init__.pyc
+etapa_1_virustotal_api/malware/Submissao_virustotal/virustotal/delpart.json
+etapa_1_virustotal_api/malware/Submissao_virustotal/virustotal/libappstream-glib.so.8.0.10.json
+etapa_1_virustotal_api/malware/Submissao_virustotal/virustotal/libgost.so.json
+etapa_1_virustotal_api/malware/Submissao_virustotal/virustotal/librawdv_plugin.so.json
+etapa_1_virustotal_api/malware/Submissao_virustotal/virustotal/libsclo.so.json
